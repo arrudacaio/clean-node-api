@@ -17,6 +17,9 @@
       "pre-commit": "lint-staged"
     }
   },
+  "standard": {
+    "env": ["jest"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arrudacaio/clean-node-api.git"
